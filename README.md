@@ -1,6 +1,6 @@
 # Hi, I'm Syed Murtajiz Ali 👋
 
-🎓 Final-year Artificial Intelligence student at the University of Greenwich  
+🎓 BSc Hons Computer Science (Artificial Intelligence)  
 🤖 Passionate about Machine Learning, Intelligent Systems, Backend Development, and AI-driven applications  
 🚀 Building scalable AI systems focused on real-world problem solving, optimisation, and human-centred technology  
 
