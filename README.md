@@ -155,7 +155,7 @@ Reinforcement learning-based tutoring system inspired by adaptive learning platf
 # 📫 Connect With Me
 
 - GitHub: https://github.com/mycatgoestomars
-- LinkedIn: Add your LinkedIn profile here
+- LinkedIn: www.linkedin.com/in/syed-murtajiz-ali-4b5816289
 - Email: studentmail725@gmail.com
 
 ---
