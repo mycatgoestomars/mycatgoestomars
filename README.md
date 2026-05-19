@@ -7,7 +7,7 @@ BSc (Hons) Artificial Intelligence, University of Greenwich (2026)
 I build AI systems that solve real problems: habit modelling, intelligent control, adaptive learning. I care about systems that are interpretable, testable, and actually useful rather than just technically impressive.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-murtajiz-ali-4b5816289)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:syed.murtajiz.ali@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alisyedmurtajiz@gmail.com)
 
 ---
 
