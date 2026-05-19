@@ -39,7 +39,7 @@ I build AI systems that solve real problems: habit modelling, intelligent contro
 
 ## Featured Projects
 
-### Gublu — Emotionally Intelligent AI Companion
+### Gublu - Emotionally Intelligent AI Companion
 > Final Year Project · BSc Artificial Intelligence, University of Greenwich (2026)
 
 A full-stack AI web application that detects and models maladaptive coping behaviours using a hybrid multi-model architecture. Combines NLP, fuzzy reasoning, and machine learning into a single behavioural analysis pipeline.
@@ -56,7 +56,7 @@ A full-stack AI web application that detects and models maladaptive coping behav
 
 ---
 
-### Intelligent Oscillation Control — Space Elevator Dynamics
+### Intelligent Oscillation Control - Space Elevator Dynamics
 
 Nonlinear simulation and intelligent control system for stabilising lateral oscillations in a space elevator cable model.
 
