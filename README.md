@@ -1,4 +1,4 @@
-# Syed Murtajiz Ali
+# Murtajiz Ali
 
 **AI & Machine Learning Engineer** · London, UK
 
